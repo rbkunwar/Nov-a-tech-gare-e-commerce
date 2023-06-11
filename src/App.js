@@ -10,7 +10,7 @@ function App() {
   <Button variant='danger'>
   <FaBeer />
   </Button>
-  Hellow world
+  Hellow world guys
   <ToastContainer />
   </div>
   )
